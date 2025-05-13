@@ -1,64 +1,65 @@
-# 👋 Hi, I'm Hong
-**Frontend Developer | React & Next.js Specialist | AI-Enhanced Workflows**
+# 👋 Hi, I'm Hong  
+**Full-Stack Developer | React, Next.js & Node.js | AI-Driven Workflows**
 
 ---
 
-## 🌟 About Me
-- Adaptable frontend developer with 3+ years of startup experience across diverse tech stacks and real-world challenges.
-- Skilled at leveraging AI to enhance development efficiency while maintaining strong technical foundations.
-- Passionate about building scalable, responsive web apps with clean UI/UX and solid coding practices.
-- Growth mindset and a strong "can-do" attitude, always eager to learn and tackle new challenges.
+## 🌟 About Me  
+- Full-stack developer with 3+ years of experience building scalable web applications in fast-paced startup environments.  
+- Specialized in React, Next.js, and Node.js, with experience across frontend, backend, and internal tooling.  
+- Hands-on work includes building 3D interactive platforms (Three.js), internal tools with Retool, and implementing analytics with Segment.io.  
+- Passionate about clean, maintainable code and leveraging AI to enhance development workflows without introducing technical debt.  
+- Growth mindset, strong fundamentals, and a focus on building impactful, real-world products.
 
 ---
 
-## 🛠️ Tech Stack
-JavaScript, React, Next.js, TypeScript, Three.js, GSAP, Tailwind CSS, SCSS, Zustand, Retool, Git, Vercel, Segment, Blender  
-→ Tell me what you need — I'll learn it!
+## 🛠️ Tech Stack  
+**Languages & Frameworks:** JavaScript, TypeScript, React, Next.js, Node.js  
+**Other Tools:** GraphQL, Three.js, GSAP, Tailwind CSS, SCSS, Zustand, Retool, AWS AppSync, Supabase, Git, Vercel, Segment, Blender  
+→ I learn fast — just tell me what you need!
 
 ---
 
-## 📈 Current Focus
-- Mastering AI integration in development — professional use without introducing technical debt.
-- Writing clean code and improving refactoring for better performance.
-- Expanding into backend development to become a full-stack developer (learning Python and databases).
+## 📈 Current Focus  
+- Integrating AI tools into development for smarter, more efficient workflows  
+- Writing clean, refactorable code to improve performance and maintainability  
+- Strengthening backend expertise with Python and database design to grow as a well-rounded full-stack engineer
 
 ---
 
 ## 🚀 Portfolio Projects
 
-### ✨ Frontend Development
-- Built responsive, component-based UIs with React and Next.js.
-- Integrated APIs (GraphQL, MySQL, Supabase) and managed state with Zustand.
-- Collaborated closely with design teams using Figma.
+### ✨ Full-Stack & Frontend Development  
+- Built responsive, component-based UIs with React and Next.js  
+- Integrated GraphQL APIs via AWS AppSync and managed state with Zustand  
+- Worked closely with designers in Figma to bring concepts to life
 
-### 🛠️ Internal Toolkit Development
-- Created internal tools to streamline operations and reduce manual work:
-  - **QR Code Label Generator** for label printers.
-  - **Customizable Legal Document Generator** with dynamic PDF export.
-  - **Report Generator** for sending order requests and product feedback iterations.
+### 🛠️ Internal Tools & Operations  
+- Developed tools to streamline workflows and reduce manual work, including:  
+  - **QR Code Label Generator** for direct label printing  
+  - **Dynamic Legal Document Generator** with PDF exports  
+  - **Order & Feedback Report Tool** for managing product iterations  
 
-### 🧩 Retool, Three.js & Analytics
-- Built internal tools with **Retool** to automate operations and workflows.
-- Developed interactive 3D model viewers with **Three.js** for engaging product visualizations.
-- Integrated **Segment.io** with Amplitude, GTM, and CRM platforms for advanced analytics tracking.
+### 🧩 3D, Retool & Analytics  
+- Created interactive 3D product viewers using **Three.js**  
+- Built internal operations apps and dashboards with **Retool**  
+- Integrated **Segment.io** with Amplitude, GTM, and CRM tools for advanced tracking
 
-### 🛠️ Personal Side Projects
-- **50-Day LeetCode Challenge:** Maintained a daily streak to sharpen algorithmic and coding skills.
+### 🧪 Side Projects  
+- **50-Day LeetCode Challenge:** Daily algorithm practice to sharpen problem-solving  
 - **Portfolio Website:**  
-  - Built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
-  - Integrated 3D animations using **Blender** and **GSAP** for immersive visual storytelling.  
-  - Focused on delivering an engaging and interactive user experience.
-- **Customizable PDF Workflow Platform:**  
-  - Enables dynamic, client-specific PDF generation for contracts, proposals, and certifications.  
-  - Supports custom inputs like company names, logos, and contract durations for instant professional exports.
+  - Built with **Next.js**, **TypeScript**, **Tailwind CSS**  
+  - Features **Blender** models and **GSAP** animations  
+- **PDF Workflow Platform:**  
+  - Enables dynamic PDF generation for proposals and contracts  
+  - Supports user inputs like names, logos, and durations for instant exports
 
 ---
 
-## 💬 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/hong-seo/)
-- [Portfolio](https://portfolio-hong-seo.vercel.app/)
-- 📧 Email: hongchani88@gmail.com
+## 💬 Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/hong-seo/)  
+- [Portfolio](https://portfolio-hong-seo.vercel.app/)  
+- 📧 Email: hongchani88@gmail.com  
 
 ---
 
-⚡ *Turning ideas into beautiful, high-performing user experiences through creativity, coding, and continuous growth.*
+⚡ *Turning ideas into scalable, high-performance web applications through thoughtful design, full-stack development, and continuous growth.*
