@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me  
-- Full-stack developer with 3+ years of experience building scalable web applications in fast-paced startup environments.  
+- Full-stack developer with 5+ years of experience building scalable web applications in fast-paced startup environments.  
 - Specialized in React, Next.js, and Node.js, with experience across frontend, backend, and internal tooling.  
 - Hands-on work includes building 3D interactive platforms (Three.js), internal tools with Retool, and implementing analytics with Segment.io.  
 - Passionate about clean, maintainable code and leveraging AI to enhance development workflows without introducing technical debt.  
