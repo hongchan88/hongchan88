@@ -1,65 +1,67 @@
-# 👋 Hi, I'm Hong  
-**Full-Stack Developer | React, Next.js & Node.js | AI-Driven Workflows**
+# 👋 Hi, I'm Hong
+**Full-Stack Developer | React, Next.js & Python | 3D Web & AI Automation**
 
 ---
 
-## 🌟 About Me  
-- Full-stack developer with 5+ years of experience building scalable web applications in fast-paced startup environments.  
-- Specialized in React, Next.js, and Node.js, with experience across frontend, backend, and internal tooling.  
-- Hands-on work includes building 3D interactive platforms (Three.js), internal tools with Retool, and implementing analytics with Segment.io.  
-- Passionate about clean, maintainable code and leveraging AI to enhance development workflows without introducing technical debt.  
-- Growth mindset, strong fundamentals, and a focus on building impactful, real-world products.
+## 🌟 About Me
+- Full-stack developer with experience in Australian startups, industrial digital twins, and business automation.
+- I build web applications with **React, Next.js, and TypeScript**, connecting user interfaces with APIs, databases, and cloud services.
+- My work spans **interactive 3D dashboards**, **internal business tools**, and **automated workflows** that reduce repetitive manual work.
+- I use AI coding tools as part of my development process, with a focus on readable code, testing, and maintainability.
+- I enjoy learning new technologies and turning complex requirements into practical, working software.
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages & Frameworks:** JavaScript, TypeScript, React, Next.js, Node.js  
-**Other Tools:** GraphQL, Three.js, GSAP, Tailwind CSS, SCSS, Zustand, Retool, AWS AppSync, Supabase, Git, Vercel, Segment, Blender  
-→ I learn fast — just tell me what you need!
+## 🛠️ Tech Stack
+**Languages & Frameworks:** JavaScript, TypeScript, Python, React, Next.js  
+**Frontend & UI:** HTML, CSS, SCSS, Zustand  
+**Backend & Cloud:** AWS Lambda, AppSync, Amplify, GraphQL  
+**Databases & Internal Tools:** PostgreSQL, MySQL, Supabase, Retool  
+**3D & Graphics:** Three.js, WebGL, Blender  
+**AI & Automation:** Claude Code, Codex, Cursor, Antigravity, n8n, OpenClaw
 
 ---
 
-## 📈 Current Focus  
-- Integrating AI tools into development for smarter, more efficient workflows  
-- Writing clean, refactorable code to improve performance and maintainability  
-- Strengthening backend expertise with Python and database design to grow as a well-rounded full-stack engineer
+## 📈 Current Focus
+- Building **React and Three.js digital twin dashboards** that connect industrial hardware with the web.
+- Exploring **2D/3D point cloud processing** through Python and WPF (C#/.NET) integration.
+- Developing **AI-assisted workflows** and practical business automation.
+- Improving the reliability and maintainability of the applications I build.
 
 ---
 
-## 🚀 Portfolio Projects
+## 🚀 Selected Work
 
-### ✨ Full-Stack & Frontend Development  
-- Built responsive, component-based UIs with React and Next.js  
-- Integrated GraphQL APIs via AWS AppSync and managed state with Zustand  
-- Worked closely with designers in Figma to bring concepts to life
+### ✨ Full-Stack & Frontend Development
+- Built responsive, reusable interfaces with **React, Next.js, and TypeScript**.
+- Integrated **GraphQL APIs through AWS AppSync** and serverless services with **AWS Lambda and Amplify**.
+- Implemented business logic in **Python** and investigated UI issues identified during QA.
 
-### 🛠️ Internal Tools & Operations  
-- Developed tools to streamline workflows and reduce manual work, including:  
-  - **QR Code Label Generator** for direct label printing  
-  - **Dynamic Legal Document Generator** with PDF exports  
-  - **Order & Feedback Report Tool** for managing product iterations  
+### 🤖 3D Digital Twins & Industrial Visualisation
+- Built web dashboards to visualise **measurement data, robotic arms, PLC systems, and LiDAR spatial data**.
+- Used **React and Three.js** to connect incoming data with interactive 3D models.
+- Worked on R&D combining **Python tools and WPF (C#/.NET)** for point cloud processing and testing.
 
-### 🧩 3D, Retool & Analytics  
-- Created interactive 3D product viewers using **Three.js**  
-- Built internal operations apps and dashboards with **Retool**  
-- Integrated **Segment.io** with Amplitude, GTM, and CRM tools for advanced tracking
+### 🛠️ Internal Tools & Operations
+- Developed **Retool, MySQL, and Next.js** tools to support operations teams.
+- Built **order management dashboards**, **QR code labelling tools**, and **legal PDF generation workflows**.
+- Turned manual processes into tools that non-technical teams could use in their day-to-day work.
 
-### 🧪 Side Projects  
-- **50-Day LeetCode Challenge:** Daily algorithm practice to sharpen problem-solving  
-- **Portfolio Website:**  
-  - Built with **Next.js**, **TypeScript**, **Tailwind CSS**  
-  - Features **Blender** models and **GSAP** animations  
-- **PDF Workflow Platform:**  
-  - Enables dynamic PDF generation for proposals and contracts  
-  - Supports user inputs like names, logos, and durations for instant exports
+### ⚙️ AI & Workflow Automation
+- Built **newsletter and content automation** using **n8n and Supabase**.
+- Integrated **Canva APIs** and automated **eBay product uploads** to reduce repetitive tasks.
+- Used **Claude Code, Codex, and other AI tools** to support implementation, experimentation, and debugging.
 
----
-
-## 💬 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/hong-seo/)  
-- [Portfolio](https://portfolio-hong-seo.vercel.app/)  
-- 📧 Email: hongchani88@gmail.com  
+### 📊 Analytics & Product Insights
+- Integrated **Segment.io** with **Amplitude, Google Analytics, and CRM systems**.
+- Implemented and validated event tracking to support product analysis and UX decisions.
 
 ---
 
-⚡ *Turning ideas into scalable, high-performance web applications through thoughtful design, full-stack development, and continuous growth.*
+## 💬 Let's Connect
+- 🌐 [Portfolio](https://portfolio-hong-seo.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hong-seo/)
+
+---
+
+⚡ *Building useful software — from web interfaces and 3D visualisation to the workflows behind them.*
